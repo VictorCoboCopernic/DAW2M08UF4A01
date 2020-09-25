@@ -13,6 +13,8 @@ and open the template in the editor.
         <?php
         function VCJ1() {
         }
+        function VCJ2() {
+        }
         ?>
     </body>
 </html>
