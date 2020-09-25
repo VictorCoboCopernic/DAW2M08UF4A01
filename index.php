@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        function VCJ1() {
+        function VCJ01() {
         }
         ?>
     </body>
