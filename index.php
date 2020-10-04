@@ -17,6 +17,8 @@ and open the template in the editor.
         }
         function VCJ3() {
         }
+        function VCJ_especial() {
+        }
         ?>
     </body>
 </html>
